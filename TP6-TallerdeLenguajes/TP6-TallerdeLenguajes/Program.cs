@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace TP6_TallerdeLenguajes
+namespace Prueba
+
 {
     class Program
     {
