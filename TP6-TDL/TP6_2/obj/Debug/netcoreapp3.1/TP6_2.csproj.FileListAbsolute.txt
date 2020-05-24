@@ -1,0 +1,13 @@
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\bin\Debug\netcoreapp3.1\TP6_2.exe
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\bin\Debug\netcoreapp3.1\TP6_2.deps.json
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\bin\Debug\netcoreapp3.1\TP6_2.runtimeconfig.json
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\bin\Debug\netcoreapp3.1\TP6_2.runtimeconfig.dev.json
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\bin\Debug\netcoreapp3.1\TP6_2.dll
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\bin\Debug\netcoreapp3.1\TP6_2.pdb
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\obj\Debug\netcoreapp3.1\TP6_2.csprojAssemblyReference.cache
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\obj\Debug\netcoreapp3.1\TP6_2.AssemblyInfoInputs.cache
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\obj\Debug\netcoreapp3.1\TP6_2.AssemblyInfo.cs
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\obj\Debug\netcoreapp3.1\TP6_2.csproj.CoreCompileInputs.cache
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\obj\Debug\netcoreapp3.1\TP6_2.dll
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\obj\Debug\netcoreapp3.1\TP6_2.pdb
+C:\RepoGit\tpn6-PavonEvelin\TP6-TDL\TP6_2\obj\Debug\netcoreapp3.1\TP6_2.genruntimeconfig.cache
