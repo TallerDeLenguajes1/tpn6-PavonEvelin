@@ -6,7 +6,7 @@ namespace TP6_2
     {
         static void Main(string[] args)
         {
-            int num1, num2, opcion, suma, resta, producto, cociente, respuesta=1;
+            int num1, num2, opcion, respuesta=1;
             do
             {
                 Console.WriteLine("1-Suma\n");
@@ -22,8 +22,7 @@ namespace TP6_2
                         Console.WriteLine("Ingrese dos numeros\n");
                         num1 = int.Parse(Console.ReadLine());
                         num2 = int.Parse(Console.ReadLine());
-                        suma = num1 + num2;
-                        Console.WriteLine("La suma es:\n" + suma);
+                        Console.WriteLine("La suma es:\n" + (num1 + num2));
                         Console.WriteLine("¿Desea realizar otra operacion? (1 si, 0 no)\n");
                         respuesta = int.Parse(Console.ReadLine());
                         break;
@@ -32,8 +31,7 @@ namespace TP6_2
                         Console.WriteLine("Ingrese dos numeros\n");
                         num1 = int.Parse(Console.ReadLine());
                         num2 = int.Parse(Console.ReadLine());
-                        resta = num1 - num2;
-                        Console.WriteLine("La resta es:\n" + resta);
+                        Console.WriteLine("La resta es:\n" + (num1 - num2));
                         Console.WriteLine("¿Desea realizar otra operacion? (1 si, 0 no)\n");
                         respuesta = int.Parse(Console.ReadLine());
                         break;
@@ -42,8 +40,7 @@ namespace TP6_2
                         Console.WriteLine("Ingrese dos numeros\n");
                         num1 = int.Parse(Console.ReadLine());
                         num2 = int.Parse(Console.ReadLine());
-                        producto = num1 * num2;
-                        Console.WriteLine("El producto es:\n" + producto);
+                        Console.WriteLine("El producto es:\n" + (num1 * num2));
                         Console.WriteLine("¿Desea realizar otra operacion? (1 si, 0 no)\n");
                         respuesta = int.Parse(Console.ReadLine());
                         break;
@@ -52,8 +49,7 @@ namespace TP6_2
                         Console.WriteLine("Ingrese dos numeros\n");
                         num1 = int.Parse(Console.ReadLine());
                         num2 = int.Parse(Console.ReadLine());
-                        cociente = num1 / num2;
-                        Console.WriteLine("El cociente es:\n" + cociente);
+                        Console.WriteLine("El cociente es:\n" + (num1 / num2));
                         Console.WriteLine("¿Desea realizar otra operacion? (1 si, 0 no)\n");
                         respuesta = int.Parse(Console.ReadLine());
                         break;
